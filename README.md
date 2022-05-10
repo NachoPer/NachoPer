@@ -5,7 +5,7 @@
  <br>
   <br>
   <img src="https://img.freepik.com/free-vector/team-programmers-working-program-code-with-laptops-teamwork-male-female-professional-testers-coders-flat-vector-illustration-software-development-programming-lesson-concept_74855-22051.jpg"  align="right" width="400px" height="250px" /> 
-  <h4>Currently learning TypeScript and MongoDB 👨‍💻
+
   <h4>At the moment, I dominate this technologies:
    <br>
    <br>
@@ -21,6 +21,7 @@
   <li>Html5
   <li>Bootstrap
   <li>Git
+  <h4 align="left">✔Currently learning TypeScript and MongoDB 👨‍💻
    <br>
    <br>
    <br>
