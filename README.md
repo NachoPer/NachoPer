@@ -21,7 +21,8 @@
   <li>Html5
   <li>Bootstrap
   <li>Git
-  <h4 align="left">✔Currently learning TypeScript and MongoDB 👨‍💻
+   </ul>
+<h4 align="left">✔Currently learning TypeScript and MongoDB 👨‍💻
    <br>
    <br>
    <br>
