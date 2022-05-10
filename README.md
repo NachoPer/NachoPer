@@ -24,7 +24,4 @@
    <br>
    <br>
    <br>
-   <br>
-   <br>
-   <br>
  <h3 align="center">If you want to know more, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/">LinkedIn</a>
