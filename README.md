@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>
  I'm Ignacio Peré 
  
-<h3> I'm a Full Stack Web Developer that loves to research, learn and apply new features and good practices to projects. A big fan of teamwork and multitasking too
+<h3> I'm a Full Stack Web Developer that loves to research, learn and apply new features and good practices. A big fan of teamwork and multitasking too
  <br>
   <br>
   <img src="https://img.freepik.com/free-vector/team-programmers-working-program-code-with-laptops-teamwork-male-female-professional-testers-coders-flat-vector-illustration-software-development-programming-lesson-concept_74855-22051.jpg"  align="right" width="400px" height="250px" /> 
