@@ -28,11 +28,12 @@ My favorite part of being a developer, it's to find and understand the best expe
   Doggify it's a SPA with a responsive design where you can see dog breeds, filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
 </p>
-<p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
 
 <img width='50%' src='/assets/Doggify for LI.png'>
 <img width='50%' src='/assets/Detail doggify.png'>
 <img width='50%' src='/assets/Create doggify.png'>
+
+<h4>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></h4>
 
 <h3>Henry-Shoes</h3>
 <p>
@@ -45,6 +46,6 @@ My favorite part of being a developer, it's to find and understand the best expe
 <img width='50%' src='/assets/DashboardProducts.png'>
 
 
-<p>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></p>
+<h4>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></h4>
 
 <h4 align="center">If you want to know more about myself, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h4>
