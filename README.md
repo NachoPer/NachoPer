@@ -21,7 +21,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 - Node
 - PostgreSQL
  
-<h2> 📌 My Projects</h2>
+<h2> 📌 My Projects </h2>
 
 <h3><strong>Doggify</strong></h3>
 <p>
