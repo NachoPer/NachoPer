@@ -12,7 +12,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 
 <h3>Languages and Tools</h3>
-<img align='right' style="margin-right:100px;" width='30%' src='/assets/GhGif.gif'>
+<img align='right' style="margin-right:100px;" width='50%' src='/assets/GhGif.gif'>
 
 - JavaScript
 - React
@@ -35,9 +35,9 @@ My favorite part of being a developer, it's to find and understand the best expe
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
 
 <p align='center'>
-  <img width='30%' height="200px" align='center' src='/assets/Doggify for LI.png'>
-  <img width='30%' height="200px" align='center' src='/assets/Detail doggify.png'>
-  <img width='30%' height="200px" align='center' src='/assets/Create doggify.png'>
+  <img width='30%' height="180px" align='center' src='/assets/Doggify for LI.png'>
+  <img width='30%' height="180px" align='center' src='/assets/Detail doggify.png'>
+  <img width='30%' height="180px" align='center' src='/assets/Create doggify.png'>
 </p>
 
 <h4>Henry-Shoes</h4>
@@ -47,11 +47,11 @@ My favorite part of being a developer, it's to find and understand the best expe
 </p>
 
 <p align='center'>
-  <img width='40%'  height="200px" align='center' src='/assets/mainPageShoes.png'>
-  <img width='40%'  height="200px" align='center' src='/assets/CartShoes.png'>
+  <img width='40%'  height="180px" align='center' src='/assets/mainPageShoes.png'>
+  <img width='40%'  height="180px" align='center' src='/assets/CartShoes.png'>
   <div style="margin-bottom: 30px;" align='center'>
-    <img width='40%'  height="200px" align='center' src='/assets/orderDetailShoes.png'>
-    <img width='40%'  height="200px" align='center' src='/assets/DashboardProducts.png'>
+    <img width='40%'  height="180px" align='center' src='/assets/orderDetailShoes.png'>
+    <img width='40%'  height="180px" align='center' src='/assets/DashboardProducts.png'>
   </div>
 </p>
 
