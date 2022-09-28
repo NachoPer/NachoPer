@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hi there 👋, I'm Ignacio Peré! </br>
+  <h1>Hi there 👋, I'm Ignacio Peré! </br>
       Full Stack Web Developer
-  </h2>
+  </h1>
 </div>
  
 <p> 
@@ -11,7 +11,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 </p>
 
 
-<h3>Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 <img align='right' style="margin-right:100px;" width='50%' src='/assets/GhGif.gif'>
 
 - JavaScript
@@ -25,9 +25,9 @@ My favorite part of being a developer, it's to find and understand the best expe
 <div style="margin-bottom:300px;">   </div>
 
  
-<h3> 📌 My Projects</h3>
+<h2> 📌 My Projects</h2>
 
-<h4><strong>Doggify</strong></h4>
+<h3><strong>Doggify</strong></h3>
 <p>
   Doggify it's a SPA with a responsive design where you can see dog breeds, filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
@@ -38,7 +38,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 <img width='50%' src='/assets/Detail doggify.png'>
 <img width='50%' src='/assets/Create doggify.png'>
 
-<h4>Henry-Shoes</h4>
+<h3>Henry-Shoes</h3>
 <p>
   Henry Shoes it's E-commerce which it was developed as a team. It includes: login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
