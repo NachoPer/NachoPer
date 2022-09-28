@@ -25,8 +25,8 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 <h3><strong>Doggify</strong></h3>
 <p>
-  Doggify it's a SPA with a responsive design where you can see dog breeds, filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
-  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
+  Doggify is a SPA with a responsive design where you can see dog breeds, filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
+  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS.
 </p>
 
 <img width='50%' src='/assets/Doggify for LI.png'>
@@ -37,8 +37,8 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 <h3>Henry-Shoes</h3>
 <p>
-  Henry Shoes it's E-commerce which it was developed as a team. It includes: login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
-  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
+  Henry Shoes is an e-commerce which it was developed as a team. It includes login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
+  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS.
 </p>
 <img width='50%' src='/assets/mainPageShoes.png'>
 <img width='50%' src='/assets/CartShoes.png'>
