@@ -34,11 +34,10 @@ My favorite part of being a developer, it's to find and understand the best expe
 </p>
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
 
-<p align='center'>
-  <img width='30%' height="180px" align='center' src='/assets/Doggify for LI.png'>
-  <img width='30%' height="180px" align='center' src='/assets/Detail doggify.png'>
-  <img width='30%' height="180px" align='center' src='/assets/Create doggify.png'>
-</p>
+<img width='50%'  align='center' src='/assets/Doggify for LI.png'>
+<img width='50%'  align='center' src='/assets/Detail doggify.png'>
+<img width='50%'  align='center' src='/assets/Create doggify.png'>
+
 
 <h4>Henry-Shoes</h4>
 <p>
