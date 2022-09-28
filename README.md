@@ -39,7 +39,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 <p>
   Henry Shoes it's E-commerce which it was developed as a team. It includes: login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
-</p>5
+</p>
 <img width='50%' src='/assets/mainPageShoes.png'>
 <img width='50%' src='/assets/CartShoes.png'>
 <img width='50%' src='/assets/orderDetailShoes.png'>
