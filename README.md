@@ -6,6 +6,7 @@
  
 <p> 
 Since my kid's years, technology form a big part of my life, considering that I spent a lot of time in the cybercafé of my family. Therefore, my passion for technology and learning about it are always there 😁.
+</br>
 My favourite part of being a developer, it's to find and understand the best experience for the user and also for us the developers with clean code following best practices.
 </p>
 
