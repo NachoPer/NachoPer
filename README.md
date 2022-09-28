@@ -33,10 +33,10 @@ My favorite part of being a developer, it's to find and understand the best expe
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
 </p>
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
-
-<img width='50%'  align='center' src='/assets/Doggify for LI.png'>
-<img width='50%'  align='center' src='/assets/Detail doggify.png'>
-<img width='50%'  align='center' src='/assets/Create doggify.png'>
+<div align='center'>
+<img width='75%' src='/assets/Doggify for LI.png'>
+<img width='75%' src='/assets/Detail doggify.png'>
+<img width='75%' src='/assets/Create doggify.png'>
 
 
 <h4>Henry-Shoes</h4>
