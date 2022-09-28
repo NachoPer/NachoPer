@@ -48,4 +48,4 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 <h4>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></h4>
 
-<h4 align="center">If you want to know more about myself, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h4>
+<h4 align="center">If you want to know more about, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h4>
