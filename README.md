@@ -12,7 +12,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 
 <h2>Languages and Tools</h2>
-<img align='right' style="margin-right:100px;" width='50%' src='/assets/GhGif.gif'>
+<img align='right' style="margin-right:100px;" width='30%' src='/assets/GhGif.gif'>
 
 - JavaScript
 - React
@@ -20,10 +20,6 @@ My favorite part of being a developer, it's to find and understand the best expe
 - Redux
 - Node
 - PostgreSQL
-
-
-<div style="margin-bottom:300px;">   </div>
-
  
 <h2> 📌 My Projects</h2>
 
