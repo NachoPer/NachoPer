@@ -1,6 +1,7 @@
  <p align="center">
-  <h2>Hi there 👋, I'm Ignacio Peré!</h2>
-  <h2>Full Stack Web Developer</h2>
+  <h2>Hi there 👋, I'm Ignacio Peré!
+      Full Stack Web Developer
+  </h2>
 </p>
  
 <p> 
