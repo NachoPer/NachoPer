@@ -1,5 +1,5 @@
  <p align="center">
-  <h2>Hi there 👋, I'm Ignacio Peré!
+  <h2>Hi there 👋, I'm Ignacio Peré! </br>
       Full Stack Web Developer
   </h2>
 </p>
@@ -9,19 +9,15 @@ Since my kids years, technology form a big part of my life considering that I sp
 My favourite part of being a developer it's to find and understand the best experience for the user and also for us the    developers with clean code following best practices
 </p>
 
-<div align="row">
 <h3>Languages and Tools</h3>
  <ul>
   <li> JavaScript</li>
   <li> React</li>
   <li> TypeScript</li>
- </ul>
- <ul>
   <li> Redux</li>
   <li> Node</li>
   <li> PostgreSQL</li>
- </ul>
-</div>
+ 
  
 <h3>My Projects</h3>
 <div>
