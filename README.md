@@ -12,7 +12,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 
 <h2>Languages and Tools</h2>
-<img align='right' style="margin-right:100px;" width='30%' src='/assets/GhGif.gif'>
+<img align='right' style="margin-right:100px;" width='35%' src='/assets/GhGif.gif'>
 
 - JavaScript
 - React
