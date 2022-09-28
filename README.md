@@ -33,23 +33,21 @@ My favorite part of being a developer, it's to find and understand the best expe
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
 </p>
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
-<div align='center'>
-<img width='60%' src='/assets/Doggify for LI.png'>
-<img width='60%' src='/assets/Detail doggify.png'>
-<img width='60%' src='/assets/Create doggify.png'>
+
+<img width='50%' src='/assets/Doggify for LI.png'>
+<img width='50%' src='/assets/Detail doggify.png'>
+<img width='50%' src='/assets/Create doggify.png'>
 
 <h4>Henry-Shoes</h4>
 <p>
   Henry Shoes it's E-commerce which it was developed as a team. It includes: login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
-</p>
+</p>5
+<img width='50%' src='/assets/mainPageShoes.png'>
+<img width='50%' src='/assets/CartShoes.png'>
+<img width='50%' src='/assets/orderDetailShoes.png'>
+<img width='50%' src='/assets/DashboardProducts.png'>
 
-<div align='center'>
-<img width='60%' src='/assets/mainPageShoes.png'>
-<img width='60%' src='/assets/CartShoes.png'>
-<img width='60%' src='/assets/orderDetailShoes.png'>
-<img width='60%' src='/assets/DashboardProducts.png'>
-</div>
 
 <p>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></p>
 
