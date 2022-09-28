@@ -10,16 +10,20 @@ Since my kid's years, technology form a big part of my life, considering that I 
 My favorite part of being a developer, it's to find and understand the best experience for the user and also for us the developers with clean code following best practices.
 </p>
 
-<h3>Languages and Tools</h3>
 
- <ul>
-  <li> JavaScript</li>
-  <li> React</li>
-  <li> TypeScript</li>
-  <li> Redux</li>
-  <li> Node</li>
-  <li> PostgreSQL</li>
- </ul>
+<h3>Languages and Tools</h3>
+<img align='right' style="margin-right:100px;" width='30%' src='/assets/GhGif.gif'>
+
+- JavaScript
+- React
+- TypeScript
+- Redux
+- Node
+- PostgreSQL
+
+
+<div style="margin-bottom:300px;">   </div>
+
  
 <h3> 📌 My Projects</h3>
 
@@ -30,14 +34,27 @@ My favorite part of being a developer, it's to find and understand the best expe
 </p>
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
 
-<img width='30' src='/assets/Doggify for LI.png'>
+<p align='center'>
+  <img width='30%' height="200px" align='center' src='/assets/Doggify for LI.png'>
+  <img width='30%' height="200px" align='center' src='/assets/Detail doggify.png'>
+  <img width='30%' height="200px" align='center' src='/assets/Create doggify.png'>
+</p>
 
-  
 <h4>Henry-Shoes</h4>
 <p>
   Henry Shoes it's E-commerce which it was developed as a team. It includes: login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
 </p>
-<p>Website: <a href="https://henry-shoes.vercel.app/"></a></p>
+
+<p align='center'>
+  <img width='40%'  height="200px" align='center' src='/assets/mainPageShoes.png'>
+  <img width='40%'  height="200px" align='center' src='/assets/CartShoes.png'>
+  <div style="margin-bottom: 30px;" align='center'>
+    <img width='40%'  height="200px" align='center' src='/assets/orderDetailShoes.png'>
+    <img width='40%'  height="200px" align='center' src='/assets/DashboardProducts.png'>
+  </div>
+</p>
+
+<p>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></p>
 
 <h4 align="center">If you want to know more about myself, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h4>
