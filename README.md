@@ -19,7 +19,6 @@ My favourite part of being a developer, it's to find and understand the best exp
   <li> Node</li>
   <li> PostgreSQL</li>
  
- 
 <h3>My Projects</h3>
 <div>
  <h4> Doggify </h4>
