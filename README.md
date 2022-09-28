@@ -34,10 +34,9 @@ My favorite part of being a developer, it's to find and understand the best expe
 </p>
 <p>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></p>
 <div align='center'>
-<img width='75%' src='/assets/Doggify for LI.png'>
-<img width='75%' src='/assets/Detail doggify.png'>
-<img width='75%' src='/assets/Create doggify.png'>
-
+<img width='60%' src='/assets/Doggify for LI.png'>
+<img width='60%' src='/assets/Detail doggify.png'>
+<img width='60%' src='/assets/Create doggify.png'>
 
 <h4>Henry-Shoes</h4>
 <p>
@@ -45,14 +44,12 @@ My favorite part of being a developer, it's to find and understand the best expe
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
 </p>
 
-<p align='center'>
-  <img width='40%'  height="180px" align='center' src='/assets/mainPageShoes.png'>
-  <img width='40%'  height="180px" align='center' src='/assets/CartShoes.png'>
-  <div style="margin-bottom: 30px;" align='center'>
-    <img width='40%'  height="180px" align='center' src='/assets/orderDetailShoes.png'>
-    <img width='40%'  height="180px" align='center' src='/assets/DashboardProducts.png'>
-  </div>
-</p>
+<div align='center'>
+<img width='60%' src='/assets/mainPageShoes.png'>
+<img width='60%' src='/assets/CartShoes.png'>
+<img width='60%' src='/assets/orderDetailShoes.png'>
+<img width='60%' src='/assets/DashboardProducts.png'>
+</div>
 
 <p>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></p>
 
