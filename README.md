@@ -1,29 +1,56 @@
- <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <br>
- I'm Ignacio Peré 
+ <p align="center">
+  <h2>Hi there 👋, I'm Ignacio Peré!</h2>
+  <h2>Full Stack Web Developer</h2>
+</p>
  
-<h3> I'm a Full Stack Web Developer that loves to research, learn and apply new features and good practices. A big fan of teamwork and multitasking too
- <br>
-  <br>
-  <img src="https://img.freepik.com/free-vector/team-programmers-working-program-code-with-laptops-teamwork-male-female-professional-testers-coders-flat-vector-illustration-software-development-programming-lesson-concept_74855-22051.jpg"  align="right" width="400px" height="250px" /> 
+<p> 
+Since my kids years, technology form a big part of my life considering that I spent a lot of time in the cybercafé of my      family. Therefore, my passion for technology and learning about it are always there 😁. 
+My favourite part of being a developer it's to find and understand the best experience for the user and also for us the    developers with clean code following best practices
+</p>
 
-  <h4>At the moment, I dominate this technologies:
-   <br>
-   <br>
+<div align="row">
+<h3>Languages and Tools</h3>
  <ul>
-  <li>JavaScript
-  <li>React
-  <li>Redux
-  <li>Node.js
-  <li>Express
-  <li>PostgreSql
-  <li>Sequelize
-  <li>Css
-  <li>Html5
-  <li>Bootstrap
-  <li>Git
-   </ul>
-<h4 align="left">✔Currently learning TypeScript and MongoDB 👨‍💻
-   <br>
-   <br>
-   <br>
- <h3 align="center">If you want to know more about myself, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/">LinkedIn</a>
+  <li> JavaScript</li>
+  <li> React</li>
+  <li> TypeScript</li>
+ </ul>
+ <ul>
+  <li> Redux</li>
+  <li> Node</li>
+  <li> PostgreSQL</li>
+ </ul>
+</div>
+ 
+<h3>My Projects</h3>
+<div>
+ <h4> Doggify </h4>
+ <p>
+ Doggify it's and SPA with responsive design where you can see dog breeds, and filtrated, searched, sort them. Moreover, you   can created a new dog breed. The data comes from an API and part of it is saved in the database.
+ The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
+ </p>
+ <a href="https://doggify-nu.vercel.app/">Website</a>
+ 
+ <div>
+ <figure></figure>
+ <figure></figure>
+ <figure></figure>
+ </div>
+</div>
+<div>
+ <h4> Henry-Shoes </h4>
+ <p>
+ H it's and SPA with responsive design where you can see dog breeds, and filtrated, searched, sort them. Moreover, you   can created a new dog breed. The data comes from an API and part of it is saved in the database.
+ The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS
+ </p>
+ <a href="https://doggify-nu.vercel.app/">Website</a>
+ 
+ <div>
+ <figure></figure>
+ <figure></figure>
+ <figure></figure>
+ </div>
+</div>
+
+
+<h2 align="center">If you want to know more about myself, contact me: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h2>
