@@ -7,7 +7,7 @@
 <p> 
 Since my kid's years, technology form a big part of my life, considering that I spent a lot of time in the cybercafé of my family. Therefore, my passion for technology and learning about it are always there 😁.
 </br>
-My favorite part of being a developer, it's to find and understand the best experience for the user and also for us the developers with clean code following best practices.
+My favorite part of being a developer is to find and understand the best experience for the user and also for us the developers with clean code following best practices.
 </p>
 
 
@@ -25,7 +25,7 @@ My favorite part of being a developer, it's to find and understand the best expe
 
 <h3><strong>Doggify</strong></h3>
 <p>
-  Doggify is a SPA with a responsive design where you can see dog breeds, filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
+  Doggify is a SPA with a responsive design where you can see dog breeds, and filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
   The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS.
 </p>
 
