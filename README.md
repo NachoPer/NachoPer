@@ -10,7 +10,10 @@ My favorite part of being a developer is to find solutions, learn from the solut
 If you're wondering why I'm not very active on GitHub lately, it's because I'm working on GitLab: https://gitlab.com/NachoPer
 
 </p>
-    <img src='https://github-readme-stats.vercel.app/api?username=NachoPer&count_private=true&theme=onedark'>
+<figure>
+  <img alt="GitHub and GitLab contributions" style="margin-bottom:0px" src='https://github-readme-stats.vercel.app/api?username=NachoPer&count_private=true&theme=onedark'>
+  <sub>GitLab and GitHub merged contributions</sub>
+</figure>
 
 
 <h2>Languages and Tools</h2>
