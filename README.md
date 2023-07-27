@@ -5,9 +5,10 @@
 </div>
  
 <p> 
-Since my kid's years, technology form a big part of my life, considering that I spent a lot of time in the cybercafé of my family. Therefore, my passion for technology and learning about it are always there 😁.
-</br>
-My favorite part of being a developer is to find and understand the best experience for the user and also for us the developers with clean code following best practices.
+My favorite part of being a developer is to find solutions, learn from the solutions of others, and then teach or discuss about either of them.
+<br>
+If you're wondering why I'm not very active on GitHub lately, it's because I'm working on GitLab: [https://gitlab.com/NachoPer](https://gitlab.com/NachoPer)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NachoPer&count_private=true&theme=onedark)
 </p>
 
 
@@ -15,37 +16,19 @@ My favorite part of being a developer is to find and understand the best experie
 <img align='right' style="margin-right:100px;" width='35%' src='/assets/GhGif.gif'>
 
 - JavaScript
-- React
+- PHP
 - TypeScript
-- Redux
 - Node
-- PostgreSQL
- 
-<h2> 📌 My Projects </h2>
-
-<h3><strong>Doggify</strong></h3>
-<p>
-  Doggify is a SPA with a responsive design where you can see dog breeds, and filter, search, and sort them. Moreover,           you can create a new dog breed. The data comes from an API and part of it is saved in the database.
-  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS.
-</p>
-
-<img width='50%' src='/assets/Doggify for LI.png'>
-<img width='50%' src='/assets/Detail doggify.png'>
-<img width='50%' src='/assets/Create doggify.png'>
-
-<h4>Website: <a href="https://doggify-nu.vercel.app/">Doggify</a></h4>
-
-<h3>Henry-Shoes</h3>
-<p>
-  Henry Shoes is an e-commerce which it was developed as a team. It includes login, favorites, cart, payment gateway, and       dashboard admin. My main job was to create part of the database, implement JWT, add the component of the cart, and do the     gateway payment on the Front-End and Back-End. 
-  The technologies used were: JavaScript, React, Redux, Node, Express, PostgreSQL, Sequelize, and CSS.
-</p>
-<img width='50%' src='/assets/mainPageShoes.png'>
-<img width='50%' src='/assets/CartShoes.png'>
-<img width='50%' src='/assets/orderDetailShoes.png'>
-<img width='50%' src='/assets/DashboardProducts.png'>
+- Nest.js
+- React
+- Next.js
+- Vue
+- Three.js
+- Laravel
+- MySQL
+- PostreSQL
+- Docker
 
 
-<h4>Website: <a href="https://henry-shoes.vercel.app/">Henry-Shoes</a></h4>
 
 <h4 align="center">To know more about, my contacts: nachopereee@gmail.com or <a href="https://www.linkedin.com/in/ignacio-peré/" target="blank">LinkedIn</a></h4>
