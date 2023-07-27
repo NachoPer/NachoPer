@@ -19,7 +19,6 @@ If you're wondering why I'm not very active on GitHub lately, it's because I'm w
 
 
 <h2>Languages and Tools</h2>
-<img align='right' style="margin-right:100px;" width='35%' src='/assets/GhGif.gif'>
 
 - JavaScript
 - PHP
